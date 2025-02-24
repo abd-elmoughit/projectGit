@@ -1,3 +1,3 @@
-a=14
-b=15
-print(a+b)
+from os import system
+def calculMontant():
+    pass
